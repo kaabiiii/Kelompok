@@ -1,7 +1,7 @@
 /**
  * Tugas18
  */
-public class Tugas18 {
+public class BiodataNizam {
 
     public static void main(String[] args) {
         System.out.println("--------------------------------------------------");
