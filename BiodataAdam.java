@@ -1,7 +1,7 @@
 /**
  * Tugas15
  */
-public class Adam {
+public class BiodataAdam {
 
     public static void main(String[] args) {
         System.out.println("--------------------------------------------------");
