@@ -4,6 +4,9 @@
 public class Adam {
 
     public static void main(String[] args) {
+        System.out.println("--------------------------------------------------");
+        System.out.println("Data Mahasiswa Jurusan Teknologi Informasi POLINEMA");
+        System.out.println("--------------------------------------------------");
         System.out.println("Nama    : Moch. Adam Arsyad Faizin");
         System.out.println("NIM     : 244107020164");
         System.out.println("Kelas   : 1B");
